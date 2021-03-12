@@ -3,9 +3,10 @@ d 1
 de 2
 duan 2
 geng 1
+guan 1
 hai 1
 jian 6
-kai 1
+kai 2
 ke 1
 kong 1
 n 1
