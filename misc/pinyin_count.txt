@@ -8,10 +8,10 @@ duan 2
 geng 1
 guan 1
 hai 1
-jian 6
+jian 7
 kai 3
 ke 1
-kong 1
+kong 2
 lie 2
 n 1
 o 1
