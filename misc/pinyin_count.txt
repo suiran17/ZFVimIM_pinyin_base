@@ -3,13 +3,13 @@ bi 1
 biao 1
 chuang 1
 d 1
-de 2
+de 3
 duan 2
 geng 1
 guan 1
 hai 1
 jian 6
-kai 2
+kai 3
 ke 1
 kong 1
 lie 2
@@ -18,6 +18,7 @@ o 1
 ri 1
 shi 7
 tian 1
+tou 1
 wen 1
 xian 1
 xin 3
